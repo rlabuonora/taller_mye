@@ -1,0 +1,46 @@
+
+/* COLORES               */
+/* VERDE    <- "#BACB33" */
+/* NARANJA  <- "#F7941E" */
+/* GRIS     <- "#999B9E" */
+/* AMARILLO <- "#ffcc00" */
+/* AZUL     <- "#2974B4" */
+/* VIOLETA  <- "#865eae" */
+
+.large { font-size: 130% }
+
+@font-face {
+    font-family: MyriadPro;
+    src: url('MyriadPro-Regular.otf');
+}
+
+
+body {
+  
+  font-family: 'MyriadPro';
+}
+
+.title-slide {
+  background-image: url(caratula.png);
+  background-size: cover;
+}
+
+
+.title-slide h1 {
+  color: #999B9E;
+  text-shadow: none;
+}
+.title-slide h2, .title-slide h3 {
+
+  line-height: 1.5em;
+}
+
+.title-slide h1, .title-slide h2, .title-slide h3 {
+  margin-left: 350px;
+  text-shadow: none;
+}
+
+h1 {
+  margin-left: 200px;
+  margin-top: 50px;
+}
