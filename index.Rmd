@@ -133,30 +133,54 @@ background-image: url("background.png")
 # Evaluación
 
 + Planificación
-+ Preguntas
-+ Metodología
++ Preguntas de evaluación
+  + Descriptivas
+  + Normativas
+  + Causa-efecto
++ Distintas metodologías con distintos requerimientos de información
+
+
 
 ---
 # Regresión Discontinua
 
+
+.pull-left[
 + Puntajes para elegir a los beneficiarios.
 + El grupo de control son los que quedan afuera por poco
++ El impacto estimado es el "salto"
+]
 
----
-# Regresión Discontinua
+--
 
+.pull-right[
 ![](rdd.png)
+]
+
 
 ---
 # Control Sintético
 
 + Versión cuantitativa de Estudio de caso
+--
+
 + Un solo tratado y grupo de control chico
+
+--
 + Comparo con una combinación de los otros casos
 
 
+
 ---
-# Control Sintético
+# Aplicación
+
++ Cluster de turismo en Colonia
++ Tratado: Colonia
++ Grupo de Control: (Montevideo + Maldonado)
++ Impacto es la diferencia después del tratamiento
+
+---
+# Resultados
 
 ![](cluster.png)
 
