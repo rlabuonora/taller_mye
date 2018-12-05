@@ -23,58 +23,137 @@ options(htmltools.dir.version = FALSE)
 ```
 
 
-
 background-image: url("background.png")
 
 
-# Buenas Prácticas MyE
+# Taller Buenas Prácticas MyE
+
+- ¿Qué son?
+- Panorama Heterogéneo
+- Manual
+
+---
+# Contenidos
+
+- Teoría del Cambio (R)
+- Monitoreo de Indicadores (P)
+- Evaluación (P + R)
+- Checklist
+
+---
+# Teoría del Cambio
+
++ Explicar la lógica de un programa
++ Base para indicadores
++ Base para evaluar
+
+---
+# Teoría del Cambio
+![](tdc_centros.png)
 
 
-- Importancia de usar datos objetivos para tomar definiciones de asignación de recursos
+---
+# Contexto
 
---
++ Describir el problema y las fuentes de información
++ CCE: Encuesta MIPYMES, PIB Regional (IDAEs), ECH
++ Tres grupos de departamentos
 
-- Redundancia en el set de indicadores disponible a nivel departamental (pib per cápita, desarrollo humano, subempleo, etc.)
 
---
+---
+# PIB Departamental
 
-- Metodología para aprovechar la información disponible
+![](informalidad.png)
 
---
 
-- Agrupación de los departamentos de Uruguay en grupos de departamentos con valores similares de los indicadores analizados.
+---
+# Informalidad
+
+![](pib.png)
+
+
+
+---
+# Alcance y Foco
+
++ Alcance y prioridades del programa
+
+---
+# Cadenas causales
+
++ Es la teoría atrás de la intervención
++ Es la parte central de la TdC
+
+
+---
+# Cadenas Causales CCE
+
+![](cadena_resultados.png)
+
+---
+# Recursos
+
++ Énfasis en transparencia
 
 ---
 
-]
+# Actividades
+
++ ¿Qué hacemos?
 
 ---
+# Productos
 
-background-image: url("background.png")
++ ¿Qué se llevan los beneficiarios?
 
+---
 # Resultados
 
-- Dos departamentos conforman un grupo de un departamento cada uno:
-
---
-
-
-    
---
-
-- Se diferencian sobre todo por la población
++ ¿Qué hacen los beneficiarios con lo que les damos?
++ Más difícil de medir
 
 ---
+# Impacto
 
-background-image: url("background.png")
++ ¿Estamos moviendo la aguja?
++ Implica cambios a mayor escala
++ Atribución
 
 
 ---
+# 3 Teorías del Cambio
 
-background-image: url("background.png")
++ Identificar los componentes de la teoría del Cambio
++ Analizar la validez de los efectos causales
++ ¿En qué se enfoca más cada una?
++ ¿Las categorías son medibles?
+
+---
+# Evaluación de Impacto
+
+---
+# Regresión Discontinua
+
++ Puntajes para elegir a los beneficiarios.
++ El grupo de control son los que quedan afuera por poco
+
+---
+# Regresión Discontinua
+
+![](rdd.png)
+
+---
+# Control Sintético
+
++ Versión cuantitativa de Estudio de caso
++ Un solo tratado y grupo de control chico
++ Comparo con una combinación de los otros casos
 
 
+---
+# Control Sintético
 
+![](cluster.png)
 
 
 
