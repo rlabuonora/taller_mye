@@ -83,6 +83,7 @@ background-image: url("background.png")
 
 + Es la teoría atrás de la intervención
 + Es la parte central de la TdC
++ Las flechas implican vínculos causales
 
 
 ---
@@ -117,7 +118,7 @@ background-image: url("background.png")
 
 + ¿Estamos moviendo la aguja?
 + Implica cambios a mayor escala
-+ Atribución
++ Extra difícil de medir (atribución)
 
 
 ---
@@ -129,7 +130,11 @@ background-image: url("background.png")
 + ¿Las categorías son medibles?
 
 ---
-# Evaluación de Impacto
+# Evaluación
+
++ Planificación
++ Preguntas
++ Metodología
 
 ---
 # Regresión Discontinua
