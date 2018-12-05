@@ -1,5 +1,5 @@
 ---
-title: "Introducción"
+title: "Taller Monitoreo y Evaluación"
 
 date: "6/12/2018"
 output:
@@ -132,6 +132,7 @@ background-image: url("background.png")
 ---
 # Evaluación
 
++ Ocasional
 + Planificación
 + Preguntas de evaluación
   + Descriptivas
