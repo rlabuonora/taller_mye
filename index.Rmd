@@ -54,7 +54,9 @@ background-image: url("background.png")
 background-image: url("background.png")
 
 # Teoría del Cambio
-![](tdc_centros.png)
+
+.center[
+<img src="tdc_centros.png" width="600">]
 
 
 ---
@@ -70,17 +72,15 @@ background-image: url("background.png")
 background-image: url("background.png")
 # PIB Departamental
 
-![](informalidad.png)
-
+.center[
+<img src="pib.png" width="400">]
 
 ---
 background-image: url("background.png")
 # Informalidad
 
-![](pib.png)
-
-
-
+.center[
+<img src="informalidad.png" width="400">]
 ---
 background-image: url("background.png")
 # Alcance y Foco
@@ -222,7 +222,8 @@ background-image: url("background.png")
 
 1) **OBJETIVOS**: responden a necesidades + especifican población objetivo
 
-![](obj.png)
+.center[
+<img src="obj.png" width="500">]
 
 
 ---
@@ -238,15 +239,16 @@ background-image: url("background.png")
  
 # Ejemplo: Articulación de TdC con indicadores
 
-2) **PRODUCTOS**: Consecuencia directa de la intervención. Representan el primer “resultado” observable de mi acción.
+3) **PRODUCTOS**: Consecuencia directa de la intervención. Representan el primer “resultado” observable de mi acción.
 
-![](productos.png)
+.center[
+<img src="productos.png" width="400">]
 ---
 background-image: url("background.png")
  
 # Ejemplo: Articulación de TdC con indicadores
 
-3) **RESULTADOS INTERMEDIOS**: Factores de transición que conectan los productos con los impactos.
+4) **RESULTADOS INTERMEDIOS**: Factores de transición que conectan los productos con los impactos.
 
 ![](resultados.png)
 ---
@@ -254,7 +256,7 @@ background-image: url("background.png")
  
 # Ejemplo: Articulación de TdC con indicadores
 
-3) **IMPACTO**: Lo que quiero cambiar con programa, Directamente relacionados con objetivos.
+5) **IMPACTO**: Lo que quiero cambiar con programa, Directamente relacionados con objetivos.
 
 ![](impacto.png)
 ---
@@ -305,7 +307,8 @@ background-image: url("background.png")
 
 # Ejemplo: antes y después
 
-![](antes-despues.png)
+.center[
+<img src="antes-despues.png" width="400">]
 ---
 background-image: url("background.png")
 
@@ -330,7 +333,8 @@ background-image: url("background.png")
 
 # Ejemplo: asignación aleatoria
 
-![](uganda.png)
+.center[
+<img src="uganda.png" width="400">]
 ---
 background-image: url("background.png")
 # Diferencias en diferencias
